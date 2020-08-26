@@ -7,7 +7,7 @@
 * It provides distributed task dispatching, scheduling, and basic I/O functionalities. 
 * Spark uses a specialized fundamental data structure known as RDD (Resilient Distributed Datasets) that is a logical collection of data partitioned across machines.
 
-**Structured API's:** DataSets, DataFrames, SQL
+**Structured API's:** DataSets, DataFrames, SQL <br/>
 **Low Level API's:** Distributed Variables, RDD's
 <br/>
 <br/>
